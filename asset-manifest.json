@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/react-cars-app/static/css/main.1feb4122.chunk.css",
-    "main.js": "/react-cars-app/static/js/main.4e099d0a.chunk.js",
-    "main.js.map": "/react-cars-app/static/js/main.4e099d0a.chunk.js.map",
+    "main.css": "/react-cars-app/static/css/main.28ade2ef.chunk.css",
+    "main.js": "/react-cars-app/static/js/main.8b259038.chunk.js",
+    "main.js.map": "/react-cars-app/static/js/main.8b259038.chunk.js.map",
     "runtime-main.js": "/react-cars-app/static/js/runtime-main.bfa2507b.js",
     "runtime-main.js.map": "/react-cars-app/static/js/runtime-main.bfa2507b.js.map",
     "static/css/2.8a75c635.chunk.css": "/react-cars-app/static/css/2.8a75c635.chunk.css",
-    "static/js/2.3c502f9b.chunk.js": "/react-cars-app/static/js/2.3c502f9b.chunk.js",
-    "static/js/2.3c502f9b.chunk.js.map": "/react-cars-app/static/js/2.3c502f9b.chunk.js.map",
+    "static/js/2.b97ef16d.chunk.js": "/react-cars-app/static/js/2.b97ef16d.chunk.js",
+    "static/js/2.b97ef16d.chunk.js.map": "/react-cars-app/static/js/2.b97ef16d.chunk.js.map",
     "index.html": "/react-cars-app/index.html",
     "static/css/2.8a75c635.chunk.css.map": "/react-cars-app/static/css/2.8a75c635.chunk.css.map",
-    "static/css/main.1feb4122.chunk.css.map": "/react-cars-app/static/css/main.1feb4122.chunk.css.map",
-    "static/js/2.3c502f9b.chunk.js.LICENSE.txt": "/react-cars-app/static/js/2.3c502f9b.chunk.js.LICENSE.txt",
+    "static/css/main.28ade2ef.chunk.css.map": "/react-cars-app/static/css/main.28ade2ef.chunk.css.map",
+    "static/js/2.b97ef16d.chunk.js.LICENSE.txt": "/react-cars-app/static/js/2.b97ef16d.chunk.js.LICENSE.txt",
     "static/media/blob.f2195ec6.svg": "/react-cars-app/static/media/blob.f2195ec6.svg",
     "static/media/jeep.18461d13.png": "/react-cars-app/static/media/jeep.18461d13.png",
-    "static/media/mclaren-orange-big.46e3c615.png": "/react-cars-app/static/media/mclaren-orange-big.46e3c615.png"
+    "static/media/mclaren-orange-big.46e3c615.png": "/react-cars-app/static/media/mclaren-orange-big.46e3c615.png",
+    "static/media/porche.0140f7ee.png": "/react-cars-app/static/media/porche.0140f7ee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bfa2507b.js",
     "static/css/2.8a75c635.chunk.css",
-    "static/js/2.3c502f9b.chunk.js",
-    "static/css/main.1feb4122.chunk.css",
-    "static/js/main.4e099d0a.chunk.js"
+    "static/js/2.b97ef16d.chunk.js",
+    "static/css/main.28ade2ef.chunk.css",
+    "static/js/main.8b259038.chunk.js"
   ]
 }
